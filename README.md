@@ -1,4 +1,4 @@
-# CKA-excercises
+# CKA-exercises
 
 Let's practice [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) questions.
 
